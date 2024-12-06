@@ -1,2 +1,2 @@
-# easy_server_toolbox
+# easy_server_lib
 shared library / toolbox for server repos
