@@ -1,2 +1,4 @@
 # easy_server_lib
-shared library / toolbox for server repos
+Shared library / toolbox for server repos
+
+Remember to create a new tag for each release.
