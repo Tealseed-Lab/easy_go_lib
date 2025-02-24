@@ -1,4 +1,4 @@
-module easy_go_lib
+module github.com/Tealseed-Lab/easy_go_lib
 
 go 1.22
 
