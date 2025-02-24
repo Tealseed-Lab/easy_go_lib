@@ -1,4 +1,4 @@
-module tealseed/easy_server_lib
+module tealseed/easy_go_lib
 
 go 1.22
 
